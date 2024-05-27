@@ -1,2 +1,3 @@
 # HEART-DISEASE-PREDICTION
-Major Project
+Major Project description
+
