@@ -1,0 +1,5 @@
+python virtual environment == 3.9
+
+tensorflow==2.12.0
+scikeras
+adapt==0.4.4

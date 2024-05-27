@@ -1,0 +1,7 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,target
+52,male,Typical angina,125,212,FALSE,ST-T Wave abnormality,168,no,1,Downslopins,0(negative)
+53,male,Typical angina,140,203,TRUE,Nothing to note ,155,yes,3.1,Upsloping,0(negative)
+70,male,Typical angina,145,174,FALSE,ST-T Wave abnormality,125,yes,2.6,Upsloping,0(negative)
+58,Female,Typical angina,100,248,FALSE,Nothing to note ,122,no,1,Flatsloping,1(positive)
+34,Female,Atypical angina,118,210,FALSE,ST-T Wave abnormality,192,no,0.7,Downslopins,1(positive)
+51,Female,Non-anginal pain,140,308,FALSE,Nothing to note ,142,no,1.5,Downslopins,1(positive)
